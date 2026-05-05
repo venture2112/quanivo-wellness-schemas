@@ -1,0 +1,120 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Quantum Energy Wellness Bed Pod",
+  "alternateName": "Bio-Wellness Pod",
+  "image": "https://quantumenergybeds.com/images/quantum-energy-bed.jpg",
+  "description": "State-of-the-art healing technology harnessing Cellular Resonance, Negative Ion, Vibrational, Far Infrared, Graphene Heating, Chromotherapy, and Gyromagnetic Therapy to help you relax, recharge, and realign with your highest wellness potential.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quantum Energy Beds"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Quantum Energy Beds"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quantumenergybeds.com",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "Organization",
+      "name": "Quantum Energy Beds"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "50"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Molly H."
+      },
+      "reviewBody": "I have been having so much trouble working in my garden and that was all I really wanted to get from this, but I got so much more. I lie in the bed in the morning for 30 minutes and not only can I work in my garden for 2 hours I have so much energy to get through the day, I couldn't be more pleased.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Kevin J."
+      },
+      "reviewBody": "My PSA test went from over 600 to within normal range within a month or so and the tests showed the masses were no longer there. I am very thankful and my doctors do not know what happened as they did not do it.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Dale Y."
+      },
+      "reviewBody": "I hurt myself some years ago and had some hip pain that likes to show up on occasion. I lie in the bed and it disappears and does not come back for months. It is amazing I love it!",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Linda M."
+      },
+      "reviewBody": "Last year I became very sick and was diagnosed with cancer. I used a combination of products including the QEWP and I am pleased to say I have been in remission and when I visit my doctor every 6 months, he just tells me that he will see me in another 6 months. I think he is annoyed at times that he has nothing left to do.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Dan S."
+      },
+      "reviewBody": "My session on the Wellness Pod was pure bliss. The gentle vibrations, radiant infrared light, and soothing heat enveloped me, melting stress and leaving me deeply relaxed. A refreshing flow of oxygen amplified the experience, boosting my energy and clarity. It felt like a full-body reset, leaving me revitalized and excited for my next visit.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Carol F."
+      },
+      "reviewBody": "My experience with the Quantum Energy Wellness Bed Pod (QEWP) was nothing short of transformative. From the moment I lay down, I felt enveloped in a soothing cocoon of warmth and gentle vibrations, as if the bed was intuitively guiding me into a deep meditative state—without any effort on my part. The combination of far-infrared light and heat as well as the other combined modalities felt like a warm embrace, melting away stress and tension I didn't even realize I was carrying.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "featureList": [
+    "Cellular Resonance technology",
+    "Negative Ion therapy",
+    "Vibrational therapy",
+    "Far Infrared heat",
+    "Graphene Heating",
+    "Chromotherapy (color therapy)",
+    "Gyromagnetic Therapy",
+    "Oxygen therapy",
+    "Bio-photon generation",
+    "Quantum field generation"
+  ]
+}
+</script>
