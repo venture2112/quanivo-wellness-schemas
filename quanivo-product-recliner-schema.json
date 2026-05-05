@@ -1,0 +1,61 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Bio-Wellness Energy Recliner",
+  "alternateName": "Quantum Energy Bio-Wellness Recliner",
+  "image": "https://quanivowellness.com/images/bio-wellness-recliner.jpg",
+  "description": "A revolutionary wellness solution harnessing multiple modalities including quantum energy, far infrared heat, vibrational therapy, and PEMF in a compact recliner format. Perfect for home or office wellness.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quanivo Wellness"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Quanivo Wellness"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/bio-wellness-energy-recliner",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "Organization",
+      "name": "Quanivo Wellness"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "18"
+  },
+  "featureList": [
+    "Quantum energy technology",
+    "Far infrared heat therapy",
+    "Vibrational therapy",
+    "PEMF (Pulsed Electromagnetic Field)",
+    "Zero gravity positioning",
+    "Compact design for home/office",
+    "Touchscreen control panel",
+    "Built-in ozone disinfection"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Space Required",
+      "value": "3x4 feet"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Session Duration",
+      "value": "15-45 minutes"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Warranty",
+      "value": "1 year"
+    }
+  ]
+}
+</script>

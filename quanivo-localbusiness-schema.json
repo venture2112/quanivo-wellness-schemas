@@ -1,0 +1,66 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://quanivowellness.com/#localbusiness",
+  "name": "Quanivo Wellness",
+  "description": "Premium wellness equipment showroom featuring quantum energy beds, cryotherapy, hyperbaric chambers, and luxury massage chairs for home and business use.",
+  "url": "https://quanivowellness.com",
+  "telephone": "+1-760-203-6399",
+  "email": "info@quanivowellness.com",
+  "priceRange": "$$$$",
+  "openingHours": [
+    "Mo-Fr 09:00-18:00",
+    "Sa 10:00-16:00"
+  ],
+  "paymentAccepted": ["Cash", "Credit Card", "Financing Available"],
+  "currenciesAccepted": "USD",
+  "areaServed": {
+    "@type": "GeoCircle",
+    "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "latitude": "33.1581",
+      "longitude": "-117.3506"
+    },
+    "geoRadius": "50000"
+  },
+  "hasMap": "https://g.page/quanivo-wellness",
+  "isAccessibleForFree": false,
+  "publicAccess": true,
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Wellness Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Bio-Wellness Pod Sessions",
+          "description": "Experience the Bio-Wellness Pod with professional guidance"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Equipment Consultation",
+          "description": "Personalized wellness equipment recommendations for home or business"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Business Integration Planning",
+          "description": "Design and planning services for spas, gyms, and wellness centers"
+        }
+      }
+    ]
+  },
+  "sameAs": [
+    "https://www.facebook.com/quanivowellness",
+    "https://www.instagram.com/quanivowellness",
+    "https://www.linkedin.com/company/quanivo-wellness"
+  ]
+}
+</script>

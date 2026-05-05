@@ -1,0 +1,73 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Quanivo Wellness",
+  "alternateName": "Quanivo",
+  "url": "https://quanivowellness.com",
+  "logo": "https://quanivowellness.com/logo.png",
+  "description": "Quanivo Wellness, a division of Venture Works Inc., curates premium wellness technologies including quantum energy beds, cryotherapy equipment, hyperbaric chambers, and luxury massage chairs for homes and businesses.",
+  "foundingDate": "2025",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Venture Works Inc.",
+    "foundingDate": "2002",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Carlsbad",
+      "addressRegion": "CA",
+      "addressCountry": "US"
+    }
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Cara Olson"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1-760-203-6399",
+    "contactType": "sales",
+    "availableLanguage": "English"
+  },
+  "sameAs": [
+    "https://www.facebook.com/quanivowellness",
+    "https://www.instagram.com/quanivowellness",
+    "https://www.linkedin.com/company/quanivo-wellness"
+  ],
+  "areaServed": "US",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Wellness Equipment",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Bio-Wellness Pod"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Cryotherapy Equipment"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Hyperbaric Chambers"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Zero Gravity Massage Chairs"
+        }
+      }
+    ]
+  }
+}
+</script>
