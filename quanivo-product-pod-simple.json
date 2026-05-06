@@ -2,5 +2,10 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Bio-Wellness Pod",
-  "description": "Advanced wellness device integrating quantum energy, PEMF, and infrared therapy for holistic healing and cellular repair."
+  "description": "Advanced wellness device integrating quantum energy, PEMF, and infrared therapy.",
+  "offers": {
+    "@type": "Offer",
+    "price": "45000",
+    "priceCurrency": "USD"
+  }
 }
