@@ -1,0 +1,56 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Cryo Bike",
+  "alternateName": "Cryotherapy Exercise Bike",
+  "image": "https://quanivowellness.com/images/cryo-bike.jpg",
+  "description": "An innovative cryotherapy device that combines hot and cold therapy with exercise. Targeted cold temperatures applied to key muscle groups during workouts reduce inflammation, ease muscle soreness, and enhance circulation.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quanivo Wellness"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Vacuactiv"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/cryo-bike",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "Organization",
+      "name": "Quanivo Wellness"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "12"
+  },
+  "featureList": [
+    "Hot and cold therapy combination",
+    "Targeted muscle cooling",
+    "Low-impact exercise",
+    "Self-operated design",
+    "Inflammation reduction",
+    "Enhanced circulation",
+    "Faster muscle recovery",
+    "No ice bath needed"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Ideal For",
+      "value": "Athletes, fitness enthusiasts, physical therapy"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Warranty",
+      "value": "1 year"
+    }
+  ]
+}
+</script>

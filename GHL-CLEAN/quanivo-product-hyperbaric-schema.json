@@ -1,0 +1,61 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Hyperbaric Chamber",
+  "alternateName": "HBOT Chamber - Hyperbaric Oxygen Therapy",
+  "image": "https://quanivowellness.com/images/hyperbaric-chamber.jpg",
+  "description": "Delivers 100% pure oxygen at pressures 1.5 to 3 times higher than normal atmosphere. Enhances oxygen delivery to tissues for faster recovery, improved circulation, reduced inflammation, and support for various health conditions.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quanivo Wellness"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Quanivo Wellness"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/hyperbaric-chamber",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "Organization",
+      "name": "Quanivo Wellness"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "15"
+  },
+  "featureList": [
+    "100% pure oxygen delivery",
+    "Adjustable pressure (1.5x to 3x normal)",
+    "Portable soft shell option",
+    "Hard shell professional option",
+    "Adjustable recliner included",
+    "Internet connectivity",
+    "Modern luxury design",
+    "User-friendly controls"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Pressure Range",
+      "value": "1.5 ATA to 3.0 ATA"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Session Duration",
+      "value": "60-90 minutes"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Warranty",
+      "value": "Up to 5 years"
+    }
+  ]
+}
+</script>

@@ -1,0 +1,56 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Cryo Treadmill",
+  "alternateName": "Cryotherapy Treadmill",
+  "image": "https://quanivowellness.com/images/cryo-treadmill.jpg",
+  "description": "Advanced cryotherapy treadmill combining cold therapy with walking/running exercise. Delivers targeted cold temperatures to muscles during cardio workouts for accelerated recovery and enhanced performance.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quanivo Wellness"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Vacuactiv"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/cryo-treadmill",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "Organization",
+      "name": "Quanivo Wellness"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "8"
+  },
+  "featureList": [
+    "Hot and cold therapy integration",
+    "Walking/running capability",
+    "Targeted muscle cooling",
+    "Cardio + recovery combined",
+    "Reduced muscle soreness",
+    "Enhanced post-workout recovery",
+    "Professional-grade construction",
+    "Self-operated system"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Ideal For",
+      "value": "Athletes, runners, sports facilities, gyms"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Warranty",
+      "value": "1 year"
+    }
+  ]
+}
+</script>

@@ -1,0 +1,88 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Bio-Wellness Pod",
+  "alternateName": "Quantum Energy Wellness Bed Pod",
+  "image": "https://quanivowellness.com/images/bio-wellness-pod.jpg",
+  "description": "An advanced wellness device that integrates quantum energy principles, scalar waves, pulsed electromagnetic field (PEMF), far infrared heat, vibrational therapy, and chromotherapy to promote holistic healing and cellular repair.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quanivo Wellness"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Quanivo Wellness"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/bio-wellness-energy-bed",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "Organization",
+      "name": "Quanivo Wellness"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "25"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Molly H."
+      },
+      "reviewBody": "I have been having so much trouble working in my garden and that was all I really wanted to get from this, but I got so much more. I lie in the bed in the morning for 30 minutes and not only can I work in my garden for 2 hours I have so much energy to get through the day.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Kevin J."
+      },
+      "reviewBody": "My PSA test went from over 600 to within normal range within a month or so and the tests showed the masses were no longer there. I am very thankful.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "featureList": [
+    "Quantum energy principles",
+    "Scalar wave technology",
+    "PEMF (Pulsed Electromagnetic Field)",
+    "Far infrared heat (630nm-850nm)",
+    "Vibrational therapy",
+    "Chromotherapy",
+    "Gyromagnetic therapy",
+    "Ozone disinfection system",
+    "Built-in touchscreen control"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Space Required",
+      "value": "5x9 feet"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Session Duration",
+      "value": "15-60 minutes"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Warranty",
+      "value": "1 year"
+    }
+  ]
+}
+</script>

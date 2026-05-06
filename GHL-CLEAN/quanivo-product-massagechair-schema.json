@@ -1,0 +1,57 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Zero Gravity Massage Chair",
+  "alternateName": "Luxury Zero Gravity Massage Chair",
+  "image": "https://quanivowellness.com/images/zero-gravity-massage-chair.jpg",
+  "description": "High-end zero gravity massage chair engineered for ultimate relaxation and recovery. Features multiple massage mechanisms, intelligent control, air-cell full-body compression, heated rollers, and Bluetooth speakers.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quanivo Wellness"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Quanivo Wellness"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/zero-gravity-massage-chair",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "Organization",
+      "name": "Quanivo Wellness"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "22"
+  },
+  "featureList": [
+    "Multiple massage mechanisms",
+    "Intelligent control system",
+    "Air-cell full-body compression",
+    "Zero gravity positioning",
+    "Heated rollers",
+    "Bluetooth speakers",
+    "Stress and tension relief",
+    "Posture improvement",
+    "Post-workout recovery support"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Ideal For",
+      "value": "Stress relief, muscle recovery, daily relaxation"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Warranty",
+      "value": "1 year"
+    }
+  ]
+}
+</script>
