@@ -2,9 +2,18 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Cryo Bike",
-  "description": "Cryotherapy exercise bike combining hot and cold therapy.",
+  "image": "https://quanivowellness.com/images/cryo-bike.jpg",
+  "description": "Cryotherapy exercise bike combining hot and cold therapy for recovery.",
+  "sku": "CB-001",
   "brand": {
     "@type": "Brand",
     "name": "Quanivo Wellness"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/cryo-bike",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
   }
 }

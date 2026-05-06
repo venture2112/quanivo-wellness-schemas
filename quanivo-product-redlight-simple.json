@@ -2,9 +2,18 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Red Light Therapy Panels",
+  "image": "https://quanivowellness.com/images/red-light-panels.jpg",
   "description": "Therapeutic light panels for cellular energy and recovery.",
+  "sku": "RL-001",
   "brand": {
     "@type": "Brand",
     "name": "Quanivo Wellness"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/infrared",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
   }
 }

@@ -2,9 +2,18 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Bio-Wellness Energy Recliner",
-  "description": "Compact wellness recliner with quantum energy and infrared therapy.",
+  "image": "https://quanivowellness.com/images/bio-wellness-recliner.jpg",
+  "description": "Compact wellness recliner with quantum energy therapy.",
+  "sku": "BWR-001",
   "brand": {
     "@type": "Brand",
     "name": "Quanivo Wellness"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/bio-wellness-energy-recliner",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
   }
 }

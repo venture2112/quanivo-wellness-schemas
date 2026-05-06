@@ -2,9 +2,18 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Cryo Treadmill",
-  "description": "Cryotherapy treadmill for enhanced recovery.",
+  "image": "https://quanivowellness.com/images/cryo-treadmill.jpg",
+  "description": "Cryotherapy treadmill for enhanced recovery and performance.",
+  "sku": "CT-001",
   "brand": {
     "@type": "Brand",
     "name": "Quanivo Wellness"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/cryo-treadmill",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
   }
 }

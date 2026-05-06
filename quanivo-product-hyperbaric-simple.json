@@ -2,9 +2,18 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Hyperbaric Chamber",
+  "image": "https://quanivowellness.com/images/hyperbaric-chamber.jpg",
   "description": "Oxygen therapy chamber for faster recovery and healing.",
+  "sku": "HC-001",
   "brand": {
     "@type": "Brand",
     "name": "Quanivo Wellness"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/hyperbaric-chamber",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
   }
 }

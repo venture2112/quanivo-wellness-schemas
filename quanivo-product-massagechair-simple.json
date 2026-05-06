@@ -2,9 +2,18 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Zero Gravity Massage Chair",
-  "description": "Luxury massage chair with full-body compression and zero gravity positioning.",
+  "image": "https://quanivowellness.com/images/massage-chair.jpg",
+  "description": "Luxury massage chair with full-body compression therapy.",
+  "sku": "MC-001",
   "brand": {
     "@type": "Brand",
     "name": "Quanivo Wellness"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://quanivowellness.com/product-details/product/massage-chair",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
   }
 }
