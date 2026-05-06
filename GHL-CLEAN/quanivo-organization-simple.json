@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Quanivo Wellness",
+  "url": "https://quanivowellness.com",
+  "logo": "https://quanivowellness.com/logo.png",
+  "description": "Premium wellness equipment including quantum energy beds, cryotherapy, hyperbaric chambers, and massage chairs.",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1-760-203-6399",
+    "contactType": "sales"
+  }
+}

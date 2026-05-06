@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Cryo Treadmill",
+  "description": "Cryotherapy treadmill for enhanced recovery.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quanivo Wellness"
+  }
+}

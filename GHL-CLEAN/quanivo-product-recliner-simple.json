@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Bio-Wellness Energy Recliner",
+  "description": "Compact wellness recliner with quantum energy and infrared therapy.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quanivo Wellness"
+  }
+}

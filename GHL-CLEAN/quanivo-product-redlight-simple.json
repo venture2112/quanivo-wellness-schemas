@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Red Light Therapy Panels",
+  "description": "Therapeutic light panels for cellular energy and recovery.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quanivo Wellness"
+  }
+}

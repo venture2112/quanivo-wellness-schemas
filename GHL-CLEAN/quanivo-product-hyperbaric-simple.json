@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Hyperbaric Chamber",
+  "description": "Oxygen therapy chamber for faster recovery and healing.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Quanivo Wellness"
+  }
+}
