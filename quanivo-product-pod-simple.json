@@ -2,23 +2,5 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Bio-Wellness Pod",
-  "image": "https://quanivowellness.com/images/bio-wellness-pod.jpg",
-  "description": "Advanced wellness device integrating quantum energy, PEMF, and infrared therapy for holistic healing.",
-  "sku": "BWP-001",
-  "brand": {
-    "@type": "Brand",
-    "name": "Quanivo Wellness"
-  },
-  "offers": {
-    "@type": "Offer",
-    "url": "https://quanivowellness.com/product-details/product/bio-wellness-energy-bed",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.9",
-    "reviewCount": "50"
-  }
+  "description": "Advanced wellness device integrating quantum energy, PEMF, and infrared therapy for holistic healing and cellular repair."
 }
