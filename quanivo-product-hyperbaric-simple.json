@@ -1,11 +1,14 @@
 {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Hyperbaric Chamber",
-  "description": "Oxygen therapy chamber for faster recovery.",
-  "offers": {
-    "@type": "Offer",
-    "price": "25000",
-    "priceCurrency": "USD"
-  }
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Hyperbaric Chamber?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Hyperbaric Chamber is an oxygen therapy chamber for faster recovery and healing. Price: $25,000."
+      }
+    }
+  ]
 }

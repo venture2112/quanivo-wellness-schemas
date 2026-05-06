@@ -1,11 +1,14 @@
 {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Cryo Treadmill",
-  "description": "Cryotherapy treadmill for enhanced recovery.",
-  "offers": {
-    "@type": "Offer",
-    "price": "22000",
-    "priceCurrency": "USD"
-  }
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Cryo Treadmill?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Cryo Treadmill is a cryotherapy treadmill for enhanced recovery and performance. Price: $22,000."
+      }
+    }
+  ]
 }

@@ -1,11 +1,14 @@
 {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Cryo Bike",
-  "description": "Cryotherapy exercise bike combining hot and cold therapy.",
-  "offers": {
-    "@type": "Offer",
-    "price": "18000",
-    "priceCurrency": "USD"
-  }
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Cryo Bike?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Cryo Bike is a cryotherapy exercise bike combining hot and cold therapy for recovery. Price: $18,000."
+      }
+    }
+  ]
 }

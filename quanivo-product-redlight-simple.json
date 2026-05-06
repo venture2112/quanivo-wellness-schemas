@@ -1,11 +1,14 @@
 {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Red Light Therapy Panels",
-  "description": "Therapeutic light panels for cellular energy.",
-  "offers": {
-    "@type": "Offer",
-    "price": "3500",
-    "priceCurrency": "USD"
-  }
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Red Light Therapy Panels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Red Light Therapy Panels are therapeutic light panels for cellular energy and recovery. Price: $3,500."
+      }
+    }
+  ]
 }

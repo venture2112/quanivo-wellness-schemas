@@ -1,11 +1,14 @@
 {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Bio-Wellness Energy Recliner",
-  "description": "Compact wellness recliner with quantum energy therapy.",
-  "offers": {
-    "@type": "Offer",
-    "price": "12000",
-    "priceCurrency": "USD"
-  }
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Bio-Wellness Energy Recliner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Bio-Wellness Energy Recliner is a compact wellness recliner with quantum energy therapy. Price: $12,000."
+      }
+    }
+  ]
 }
